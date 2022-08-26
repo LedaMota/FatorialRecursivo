@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\FatorialRecurcivo\bin\Debug\FatorialRecurcivo.exe.config
+C:\WorkspaceLediane\FatorialRecurcivo\bin\Debug\FatorialRecurcivo.exe
+C:\WorkspaceLediane\FatorialRecurcivo\bin\Debug\FatorialRecurcivo.pdb
+C:\WorkspaceLediane\FatorialRecurcivo\obj\Debug\FatorialRecurcivo.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\FatorialRecurcivo\obj\Debug\FatorialRecurcivo.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\FatorialRecurcivo\obj\Debug\FatorialRecurcivo.exe
+C:\WorkspaceLediane\FatorialRecurcivo\obj\Debug\FatorialRecurcivo.pdb
